@@ -1,0 +1,1 @@
+<?php echo $this->Restaurants->write_get_location_button("周辺のお店を探す");?>
